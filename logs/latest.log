@@ -1,133 +1,156 @@
-[11:21:12] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[11:21:12] [Server thread/INFO]: Loading properties
-[11:21:12] [Server thread/INFO]: Default game type: SURVIVAL
-[11:21:12] [Server thread/INFO]: Generating keypair
-[11:21:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:21:12] [Server thread/INFO]: Using default channel type
-[11:21:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:21:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:21:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:21:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:21:13] [Server thread/INFO]: Preparing level "-_-"
-[11:21:13] [Server thread/INFO]: Loaded 488 advancements
-[11:21:13] [Server thread/INFO]: Preparing start region for level 0
-[11:21:15] [Server thread/INFO]: Preparing spawn area: 0%
-[11:21:16] [Server thread/INFO]: Preparing spawn area: 10%
-[11:21:17] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 1bbe992d-73b9-408b-9547-70054c57c144
-[11:21:17] [Server thread/INFO]: Preparing spawn area: 33%
-[11:21:18] [Server thread/INFO]: Preparing spawn area: 46%
-[11:21:19] [Server thread/INFO]: Preparing spawn area: 67%
-[11:21:20] [Server thread/INFO]: Done (6.876s)! For help, type "help" or "?"
-[11:23:09] [Server thread/INFO]: xan[/127.0.0.1:53356] logged in with entity id 346 at (211.9569375542973, 16.0, 181.2481190487609)
-[11:23:09] [Server thread/INFO]: xan joined the game
-[11:23:10] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[11:23:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2745ms behind, skipping 54 tick(s)
-[11:23:23] [Server thread/WARN]: xan moved too quickly! -9.493498152487774,-3.0,-1.7028524311302533
-[11:23:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7798ms behind, skipping 155 tick(s)
-[11:23:52] [Server thread/WARN]: xan moved wrongly!
-[11:28:21] [Server thread/INFO]: [xan: Teleported xan to 1101.5, 70.0, -1902.5]
-[11:28:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3728ms behind, skipping 74 tick(s)
-[11:37:45] [Server thread/INFO]: [xan: Teleported xan to 0.5, 0.0, 0.5]
-[11:37:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3601ms behind, skipping 72 tick(s)
-[11:37:51] [Server thread/WARN]: xan moved too quickly! 0.006763792131096125,-10.40899122375772,-0.018395954743027687
-[11:37:53] [Server thread/WARN]: xan moved too quickly! 0.0,-12.48751206236711,0.0
-[11:37:54] [Server thread/INFO]: [xan: Teleported xan to 0.5, 100.0, 0.5]
-[11:37:55] [Server thread/WARN]: xan moved too quickly! -0.1588179277646371,-10.529193645291315,-0.18401518479339518
-[11:37:56] [Server thread/INFO]: xan fell from a high place
-[11:38:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3498ms behind, skipping 69 tick(s)
-[11:38:17] [Server thread/WARN]: xan moved too quickly! -2392.052668114316,17.39260454995134,13821.546756685651
-[11:38:20] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[11:38:21] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[11:39:15] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[11:39:54] [Server thread/WARN]: xan moved too quickly! 0.0,-11.842011517166341,-0.00634061179988521
-[11:41:01] [Server thread/INFO]: [xan: Teleported xan to 1101.5, 70.0, -1902.5]
-[11:42:58] [Server thread/INFO]: [xan: Teleported xan to 531.5, 63.0, 2771.5]
-[11:43:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4932ms behind, skipping 98 tick(s)
-[11:43:12] [Server thread/INFO]: [xan: Teleported xan to 531.5, 63.0, -2770.5]
-[11:43:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2527ms behind, skipping 50 tick(s)
-[11:56:34] [Server thread/INFO]: [xan: Teleported xan to 195.5, 13.0, 170.5]
-[11:56:34] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[11:56:58] [Server thread/INFO]: [xan: Teleported xan to 3503.5, 67.0, -1723.5]
-[11:57:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3110ms behind, skipping 62 tick(s)
-[11:57:03] [Server thread/INFO]: [xan: Teleported xan to 3503.5, 67.0, 1724.5]
-[11:57:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7705ms behind, skipping 154 tick(s)
-[11:58:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2857ms behind, skipping 57 tick(s)
-[12:02:53] [Server thread/INFO]: [xan: Teleported xan to 531.5, 63.0, -2770.5]
-[12:03:26] [Server thread/INFO]: [xan: Teleported xan to -3502.5, 67.0, -1723.5]
-[12:05:24] [Server thread/INFO]: [xan: Teleported xan to 1800.5, 70.0, 1800.5]
-[12:05:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3797ms behind, skipping 75 tick(s)
-[12:05:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4846ms behind, skipping 96 tick(s)
-[12:06:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3684ms behind, skipping 73 tick(s)
-[12:08:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2487ms behind, skipping 49 tick(s)
-[12:09:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2375ms behind, skipping 47 tick(s)
-[12:09:48] [Server thread/INFO]: [xan: Teleported xan to 552.5, 70.0, 1576.5]
-[12:09:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2024ms behind, skipping 40 tick(s)
-[12:10:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7927ms behind, skipping 158 tick(s)
-[12:12:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4570ms behind, skipping 91 tick(s)
-[12:12:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3699ms behind, skipping 73 tick(s)
-[12:12:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2965ms behind, skipping 59 tick(s)
-[12:13:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2187ms behind, skipping 43 tick(s)
-[12:13:10] [Server thread/INFO]: [xan: Teleported xan to 1800.5, 70.0, 1800.5]
-[12:13:29] [Server thread/INFO]: [xan: Teleported xan to 1176.5, 70.0, 2184.5]
-[12:13:35] [Server thread/INFO]: [xan: Teleported xan to 1176.5, 100.0, 2184.5]
-[12:13:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4420ms behind, skipping 88 tick(s)
-[12:13:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6227ms behind, skipping 124 tick(s)
-[12:14:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2257ms behind, skipping 45 tick(s)
-[12:19:18] [Server thread/INFO]: [xan: Teleported xan to 1500.5, 70.0, 1500.5]
-[12:19:35] [Server thread/INFO]: [xan: Teleported xan to 1500.5, 70.0, 1200.5]
-[12:19:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2699ms behind, skipping 53 tick(s)
-[12:19:41] [Server thread/INFO]: [xan: Teleported xan to 1500.5, 100.0, 1200.5]
-[12:19:57] [Server thread/INFO]: [xan: Teleported xan to 1500.5, 100.0, 12300.5]
-[12:19:59] [Server thread/INFO]: xan fell from a high place
-[12:20:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8928ms behind, skipping 178 tick(s)
-[12:20:09] [Server thread/INFO]: [xan: Teleported xan to 1500.5, 70.0, 12300.5]
-[12:20:14] [Server thread/INFO]: [xan: Teleported xan to 1500.5, 80.0, 12300.5]
-[12:20:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3953ms behind, skipping 79 tick(s)
-[12:21:05] [Server thread/INFO]: [xan: Teleported xan to 824.5, 70.0, 13112.5]
-[12:21:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2829ms behind, skipping 56 tick(s)
-[12:21:11] [Server thread/INFO]: [xan: Teleported xan to 824.5, 100.0, 13112.5]
-[12:21:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21372ms behind, skipping 427 tick(s)
-[12:21:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3236ms behind, skipping 64 tick(s)
-[12:23:02] [Server thread/INFO]: [xan: Teleported xan to 824.5, 100.0, 20000.5]
-[12:23:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2082ms behind, skipping 41 tick(s)
-[12:23:05] [Server thread/INFO]: xan fell from a high place
-[12:23:13] [Server thread/INFO]: [xan: Teleported xan to 824.5, 70.0, 20000.5]
-[12:23:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10521ms behind, skipping 210 tick(s)
-[12:23:36] [Server thread/INFO]: [xan: Teleported xan to 280.5, 70.0, 20295.5]
-[12:24:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21940ms behind, skipping 438 tick(s)
-[12:24:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2028ms behind, skipping 40 tick(s)
-[12:25:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2089ms behind, skipping 41 tick(s)
-[12:26:08] [Server thread/INFO]: [xan: Teleported xan to 824.5, 70.0, 25000.5]
-[12:26:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3468ms behind, skipping 69 tick(s)
-[12:26:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2883ms behind, skipping 57 tick(s)
-[12:26:29] [Server thread/INFO]: [xan: Teleported xan to 8.5, 70.0, 25192.5]
-[12:26:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8236ms behind, skipping 164 tick(s)
-[13:07:26] [Server thread/INFO]: [xan: Teleported xan to 195.5, 13.0, 170.5]
-[13:07:27] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:35:37] [Server thread/INFO]: [xan: Set game difficulty to Hard]
-[13:39:13] [Server thread/WARN]: xan moved too quickly! 9.85864198440072,-6.091470477364368,14.149543596777647
-[13:39:17] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
-[13:39:38] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 54fe4229-3ab3-48fd-9032-75b93f40162e
-[13:39:45] [Server thread/INFO]: xan fell from a high place
-[13:40:24] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:40:26] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
-[13:41:41] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
-[13:42:25] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:42:27] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
-[13:43:26] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
-[13:44:32] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:44:53] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
-[13:45:06] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 54fe4229-3ab3-48fd-9032-75b93f40162e
-[13:45:07] [Server thread/WARN]: xan moved too quickly! 14.945805793713214,-6.626224670879239,-8.666279412344863
-[13:45:14] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:45:19] [Server thread/INFO]: xan experienced kinetic energy
-[13:45:34] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:45:36] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
-[13:45:59] [Server thread/WARN]: xan moved too quickly! 0.0,-11.781884062724245,-0.07100945215503884
-[13:46:00] [Server thread/INFO]: xan fell from a high place
-[13:46:21] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:46:27] [Server thread/WARN]: xan moved too quickly! 12.981960028083535,-8.356453898659339,-8.122902529003397
-[13:46:32] [Server thread/INFO]: xan fell off a ladder
-[13:46:52] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
-[13:47:50] [Server thread/INFO]: xan lost connection: Disconnected
-[13:47:50] [Server thread/INFO]: xan left the game
+[00:04:35] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to xan]
+[00:05:31] [Server thread/INFO]: [Eclipse0204: Set game difficulty to Normal]
+[00:11:03] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to 195.5, 14.0, 170.5]
+[00:11:03] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[00:15:55] [Server thread/WARN]: Eclipse0204 moved too quickly! -0.10443391780475508,-11.179957870082404,-0.15187812165314085
+[00:15:56] [Server thread/WARN]: Eclipse0204 moved too quickly! 0.0,-10.439137858571513,0.014918412193253516
+[00:17:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2120ms behind, skipping 42 tick(s)
+[00:18:49] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to xan]
+[00:21:57] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to 195.5, 14.0, 170.5]
+[00:21:58] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[00:22:18] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to xan]
+[00:23:33] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to 195.5, 14.0, 170.5]
+[00:23:34] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[00:26:53] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[00:28:39] [Server thread/WARN]: Eclipse0204 moved wrongly!
+[00:38:14] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[00:38:23] [Server thread/INFO]: [xan: Set game difficulty to Peaceful]
+[00:38:33] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to xan]
+[00:51:06] [Server thread/INFO]: Eclipse0204 lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[00:51:06] [Server thread/INFO]: Eclipse0204 left the game
+[01:03:49] [Server thread/INFO]: Eclipse0204[/169.254.239.19:54560] logged in with entity id 1378644 at (199.4261736770189, 68.0625, 517.0393553937467)
+[01:03:49] [Server thread/INFO]: Eclipse0204 joined the game
+[01:04:31] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to 195.5, 14.0, 170.5]
+[01:04:31] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[01:09:36] [Server thread/WARN]: Eclipse0204 moved too quickly! 0.0,-10.811596629254794,0.0
+[01:11:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5009ms behind, skipping 100 tick(s)
+[01:11:09] [Server thread/WARN]: xan moved too quickly! -155.06582872123485,-4.0,-454.91464365820923
+[01:13:15] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 54fe4229-3ab3-48fd-9032-75b93f40162e
+[01:14:18] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[01:14:23] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[01:16:20] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[01:16:22] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[01:18:55] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[01:18:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2629ms behind, skipping 52 tick(s)
+[01:18:56] [Server thread/WARN]: xan moved too quickly! 164.33872295731618,7.0,322.05225842321136
+[01:19:04] [Server thread/INFO]: [Eclipse0204: Teleported xan to Eclipse0204]
+[01:20:00] [Server thread/INFO]: [Eclipse0204: Set the time to 13000]
+[01:22:18] [Server thread/WARN]: Eclipse0204 moved too quickly! 8.136446036365413,14.273077721078494,8.43373619477029
+[01:22:20] [Server thread/WARN]: Eclipse0204 moved too quickly! 8.081976174013022,14.245251803123281,7.973162773869717
+[01:23:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2125ms behind, skipping 42 tick(s)
+[01:23:33] [Server thread/WARN]: Eclipse0204 moved too quickly! -4.8889952708020985,-2.0571862573025896,-17.40596367139665
+[01:25:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2197ms behind, skipping 43 tick(s)
+[01:26:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2634ms behind, skipping 52 tick(s)
+[01:26:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2165ms behind, skipping 43 tick(s)
+[01:26:48] [Server thread/WARN]: xan moved too quickly! -0.4697635816217769,5.886068732210319,-17.149664102054203
+[01:26:50] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[01:26:56] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to 195.5, 14.0, 170.5]
+[01:26:56] [Server thread/WARN]: xan moved too quickly! 4.9189910999722315,-13.124528962573336,-11.947012046758175
+[01:27:02] [Server thread/WARN]: xan moved too quickly! -1.9529989681265363,-2.0756155179314533,-17.790626179468234
+[01:27:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5000ms behind, skipping 100 tick(s)
+[01:27:32] [Server thread/WARN]: xan moved too quickly! 0.0,-10.722248667987493,-0.07074728278971065
+[01:31:12] [Server thread/WARN]: xan moved too quickly! -0.44133647779653984,8.747210685683783,15.731235362359314
+[01:31:14] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[01:31:15] [Server thread/WARN]: xan moved too quickly! -2.0334958398977108,4.843439403076687,17.360208451947727
+[01:31:16] [Server thread/WARN]: xan moved too quickly! -3.0917359818575108,4.0356862521429235,17.41409480296187
+[01:31:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2417ms behind, skipping 48 tick(s)
+[01:31:25] [Server thread/WARN]: xan moved too quickly! 1.2709633815338748,-4.259900677712963,17.973004883460135
+[01:31:28] [Server thread/WARN]: xan moved too quickly! 0.05281844224006704,3.5434479319277585,17.79144897877535
+[01:31:30] [Server thread/WARN]: xan moved too quickly! 6.813127546052044,-0.16822299505332694,16.259962914879736
+[01:31:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8282ms behind, skipping 165 tick(s)
+[01:32:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3524ms behind, skipping 70 tick(s)
+[01:32:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2774ms behind, skipping 55 tick(s)
+[01:32:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2266ms behind, skipping 45 tick(s)
+[01:32:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2450ms behind, skipping 49 tick(s)
+[01:33:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2665ms behind, skipping 53 tick(s)
+[01:33:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2048ms behind, skipping 40 tick(s)
+[01:33:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2885ms behind, skipping 57 tick(s)
+[01:34:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2075ms behind, skipping 41 tick(s)
+[01:34:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2962ms behind, skipping 59 tick(s)
+[01:34:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2134ms behind, skipping 42 tick(s)
+[01:35:02] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to 2495.5, 30.0, -13816.5]
+[01:35:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12657ms behind, skipping 253 tick(s)
+[01:35:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2306ms behind, skipping 46 tick(s)
+[01:35:26] [Server thread/WARN]: Eclipse0204 moved too quickly! -2392.494546489494,17.1875,13821.425461371424
+[01:35:29] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[01:35:29] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[01:35:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6086ms behind, skipping 121 tick(s)
+[01:35:49] [Server thread/INFO]: [Eclipse0204: Set game difficulty to Normal]
+[01:37:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3635ms behind, skipping 72 tick(s)
+[01:37:20] [Server thread/WARN]: Eclipse0204 moved too quickly! -9.775690867073536,6.886351903463719,-13.728531545166106
+[01:37:22] [Server thread/WARN]: Eclipse0204 moved too quickly! -9.444489549202672,4.108992767700258,-14.793650296664111
+[01:37:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2844ms behind, skipping 56 tick(s)
+[01:37:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3756ms behind, skipping 75 tick(s)
+[01:38:00] [Server thread/WARN]: Eclipse0204 moved too quickly! 8.512635925183986,1.0,5.3803231847490025
+[01:38:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5912ms behind, skipping 118 tick(s)
+[01:39:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2611ms behind, skipping 52 tick(s)
+[01:39:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3106ms behind, skipping 62 tick(s)
+[01:41:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2172ms behind, skipping 43 tick(s)
+[01:41:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2170ms behind, skipping 43 tick(s)
+[01:41:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3577ms behind, skipping 71 tick(s)
+[01:42:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
+[01:42:38] [Server thread/WARN]: Eclipse0204 moved too quickly! 9.307949385483653,-7.992529844090981,12.597423670894223
+[01:42:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2252ms behind, skipping 45 tick(s)
+[01:43:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2404ms behind, skipping 48 tick(s)
+[01:43:40] [Server thread/WARN]: xan moved too quickly! 1.1644767916025671,0.0,9.965073586192148
+[01:43:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5482ms behind, skipping 109 tick(s)
+[01:44:00] [Server thread/WARN]: Eclipse0204 moved too quickly! 14.294581239845002,2.515316072311343,10.913057205157344
+[01:44:02] [Server thread/WARN]: Eclipse0204 moved too quickly! 12.997525789906376,5.069620689011408,11.600791783426672
+[01:44:04] [Server thread/WARN]: Eclipse0204 moved too quickly! 9.84034355105564,6.800773001872777,13.085750211478711
+[01:44:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3208ms behind, skipping 64 tick(s)
+[01:44:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3005ms behind, skipping 60 tick(s)
+[01:44:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2438ms behind, skipping 48 tick(s)
+[01:45:01] [Server thread/WARN]: Eclipse0204 moved too quickly! 7.214005735609518,-7.078400001525878,-0.019046919527372808
+[01:45:01] [Server thread/WARN]: xan moved too quickly! -155.2493161082346,-4.0,-456.01367624214026
+[01:45:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8831ms behind, skipping 176 tick(s)
+[01:45:17] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[01:45:34] [Server thread/WARN]: Eclipse0204 moved too quickly! 3.812493246968671,0.2522033402537289,9.296594097844377
+[01:45:34] [Server thread/WARN]: xan moved too quickly! -10.060500440259576,1.0,1.1491480835347847
+[01:45:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11018ms behind, skipping 220 tick(s)
+[01:45:46] [Server thread/WARN]: xan moved too quickly! -15.634052947817715,8.201647572071309,4.226848446082769
+[01:45:47] [Server thread/WARN]: xan moved too quickly! -17.609361132373103,1.3159522995574235,3.614436622398813
+[01:45:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7116ms behind, skipping 142 tick(s)
+[01:45:49] [Server thread/WARN]: xan moved too quickly! -17.936751471141662,1.5196742772055103,0.6771250785251794
+[01:45:52] [Server thread/WARN]: xan moved too quickly! -8.060096075217984,-6.602749634908562,-0.24906316137927575
+[01:46:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10859ms behind, skipping 217 tick(s)
+[01:46:20] [Server thread/WARN]: Eclipse0204 moved too quickly! -2.4194377504628903,0.7531999805212024,9.926118880206559
+[01:46:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4316ms behind, skipping 86 tick(s)
+[01:46:31] [Server thread/INFO]: [Eclipse0204: Set game difficulty to Peaceful]
+[01:46:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3547ms behind, skipping 70 tick(s)
+[01:46:53] [Server thread/WARN]: Eclipse0204 moved too quickly! -154.8866920044253,-4.0,-455.54560372948634
+[01:46:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3189ms behind, skipping 63 tick(s)
+[01:49:53] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[01:49:53] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[01:49:53] [Server thread/WARN]: xan moved too quickly! 163.97808822067714,7.0,322.1132350159604
+[01:49:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3495ms behind, skipping 69 tick(s)
+[01:52:38] [Server thread/WARN]: xan moved too quickly! -154.80372599834493,-4.0,-454.94586825501204
+[02:00:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2011ms behind, skipping 40 tick(s)
+[02:03:16] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[02:03:16] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[02:03:17] [Server thread/WARN]: xan moved too quickly! 163.5758997839369,7.0,321.07190391730035
+[02:03:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3292ms behind, skipping 65 tick(s)
+[02:05:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3411ms behind, skipping 68 tick(s)
+[02:06:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2059ms behind, skipping 41 tick(s)
+[02:10:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2251ms behind, skipping 45 tick(s)
+[02:11:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2090ms behind, skipping 41 tick(s)
+[02:13:44] [Server thread/INFO]: [Eclipse0204: Set game difficulty to Hard]
+[02:15:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2072ms behind, skipping 41 tick(s)
+[02:16:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2674ms behind, skipping 53 tick(s)
+[02:17:14] [Server thread/INFO]: [Eclipse0204: Set game difficulty to Peaceful]
+[02:18:58] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[02:18:59] [Server thread/WARN]: Eclipse0204 moved too quickly! 163.5798772935277,7.0,321.9198180519147
+[02:18:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4213ms behind, skipping 84 tick(s)
+[02:19:04] [Server thread/INFO]: [Eclipse0204: Teleported Eclipse0204 to xan]
+[02:19:31] [Server thread/INFO]: Eclipse0204 lost connection: Disconnected
+[02:19:31] [Server thread/INFO]: Eclipse0204 left the game
+[02:21:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2086ms behind, skipping 41 tick(s)
+[02:26:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2265ms behind, skipping 45 tick(s)
+[02:31:33] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 826f8a7b-2d5e-4ef5-8316-54e03c6ad3c7
+[02:36:29] [Server thread/WARN]: xan moved too quickly! 1.6380548263944092,4.886868575131942,17.59095362630788
+[02:36:33] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[02:36:33] [Server thread/WARN]: xan moved too quickly! 0.6263364736689709,1.867978290648395,17.42425739710052
+[02:36:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4480ms behind, skipping 89 tick(s)
+[02:36:47] [Server thread/WARN]: xan moved too quickly! 0.01124413018212067,-14.455352430381083,11.766130418734974
+[02:36:51] [Server thread/WARN]: xan moved too quickly! -1.5674265140301031,8.513400841878848,16.068901883307888
+[02:40:24] [Server thread/INFO]: xan lost connection: Disconnected
+[02:40:24] [Server thread/INFO]: xan left the game
