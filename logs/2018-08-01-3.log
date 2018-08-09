@@ -1,0 +1,26 @@
+[21:47:05] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:47:05] [Server thread/INFO]: Loading properties
+[21:47:05] [Server thread/INFO]: Default game type: SURVIVAL
+[21:47:05] [Server thread/INFO]: Generating keypair
+[21:47:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:47:05] [Server thread/INFO]: Using default channel type
+[21:47:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:47:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:47:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:47:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:47:07] [Server thread/INFO]: Preparing level "-_-"
+[21:47:08] [Server thread/INFO]: Loaded 488 advancements
+[21:47:08] [Server thread/INFO]: Preparing start region for level 0
+[21:47:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:47:10] [Server thread/INFO]: Preparing spawn area: 32%
+[21:47:11] [Server thread/INFO]: Preparing spawn area: 66%
+[21:47:12] [Server thread/INFO]: Done (4.917s)! For help, type "help" or "?"
+[21:47:20] [Server thread/INFO]: Eclipse0204[/192.168.0.102:49849] logged in with entity id 293 at (176.69999998807907, 50.0, 338.30000001192093)
+[21:47:20] [Server thread/INFO]: Eclipse0204 joined the game
+[21:47:21] [Server thread/WARN]: Keeping entity minecraft:pig that already exists with UUID 139ae61b-58ac-43b6-b5dd-3b305f98256d
+[21:47:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10641ms behind, skipping 212 tick(s)
+[21:47:33] [Server thread/WARN]: Eclipse0204 moved too quickly! -5.1950443815075005,1.4375,8.736747488418132
+[21:47:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3791ms behind, skipping 75 tick(s)
+[21:47:56] [Server thread/INFO]: [Eclipse0204: Game rule keepInventory has been updated to true]
+[21:48:15] [Server thread/WARN]: Eclipse0204 moved too quickly! 3.150453802351393,1.0,9.593124516345256
+[21:48:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9786ms behind, skipping 195 tick(s)
